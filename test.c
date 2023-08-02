@@ -8,4 +8,6 @@ int main(void){
   scanf("%s",fruit);
   printf("you lick %s\n",fruit);
 
+  printf("%d",14);
+
 }
